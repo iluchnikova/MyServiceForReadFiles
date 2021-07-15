@@ -1,0 +1,204 @@
+﻿Выполняется установка сборки 'C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+   assemblypath = C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+Устанавливается служба MyServiceForReadFiles...
+Создается исходный EventLog MyServiceForReadFiles в журнале Application...
+Выполняется откат для сборки 'C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+   assemblypath = C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+Восстанавливается исходное состояние журнала событий для источника MyServiceForReadFiles.
+Выполняется установка сборки 'C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+   assemblypath = C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+Устанавливается служба MyServiceForReadFiles...
+Создается исходный EventLog MyServiceForReadFiles в журнале Application...
+Выполняется откат для сборки 'C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+   assemblypath = C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+Восстанавливается исходное состояние журнала событий для источника MyServiceForReadFiles.
+Выполняется установка сборки 'C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+   assemblypath = C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+Устанавливается служба MyServiceForReadFiles...
+Создается исходный EventLog MyServiceForReadFiles в журнале Application...
+Выполняется откат для сборки 'C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+   assemblypath = C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+Восстанавливается исходное состояние журнала событий для источника MyServiceForReadFiles.
+Выполняется установка сборки 'C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+   logfile = C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+Устанавливается служба MyServiceForReadFiles...
+Создается исходный EventLog MyServiceForReadFiles в журнале Application...
+Выполняется откат для сборки 'C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+   logfile = C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+Восстанавливается исходное состояние журнала событий для источника MyServiceForReadFiles.
+Выполняется установка сборки 'C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+   logfile = C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+Устанавливается служба MyServiceForReadFiles...
+Служба MyServiceForReadFiles успешно установлена.
+Создается исходный EventLog MyServiceForReadFiles в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+   logfile = C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+Выполняется установка сборки 'c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+   logfile = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+Устанавливается служба MyServiceForReadFiles...
+Создается исходный EventLog MyServiceForReadFiles в журнале Application...
+Выполняется откат для сборки 'c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+   logfile = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+Восстанавливается исходное состояние журнала событий для источника MyServiceForReadFiles.
+Выполняется удаление сборки 'c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+   logfile = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+Выполняется удаление источника EventLog MyServiceForReadFiles.
+Выполняется удаление службы MyServiceForReadFiles из системы...
+Служба MyServiceForReadFiles успешно удалена из системы.
+Выполняется установка сборки 'c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+   logfile = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+Устанавливается служба MyServiceForReadFiles...
+Служба MyServiceForReadFiles успешно установлена.
+Создается исходный EventLog MyServiceForReadFiles в журнале Application...
+Выполняется фиксация сборки 'c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+   logfile = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+Выполняется удаление сборки 'c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+   logfile = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+Выполняется удаление источника EventLog MyServiceForReadFiles.
+Выполняется удаление службы MyServiceForReadFiles из системы...
+Служба MyServiceForReadFiles успешно удалена из системы.
+Выполняется установка сборки 'c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+   logfile = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+Устанавливается служба MyServiceForReadFiles...
+Служба MyServiceForReadFiles успешно установлена.
+Создается исходный EventLog MyServiceForReadFiles в журнале Application...
+Выполняется фиксация сборки 'c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+   logfile = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+Выполняется удаление сборки 'c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+   logfile = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+Выполняется удаление источника EventLog MyServiceForReadFiles.
+Выполняется удаление службы MyServiceForReadFiles из системы...
+Служба MyServiceForReadFiles успешно удалена из системы.
+Выполняется установка сборки 'c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+   logfile = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+Устанавливается служба MyServiceForReadFiles...
+Служба MyServiceForReadFiles успешно установлена.
+Создается исходный EventLog MyServiceForReadFiles в журнале Application...
+Выполняется фиксация сборки 'c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+   logfile = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+Выполняется удаление сборки 'c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+   logfile = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+Выполняется удаление источника EventLog MyServiceForReadFiles.
+Выполняется удаление службы MyServiceForReadFiles из системы...
+Служба MyServiceForReadFiles успешно удалена из системы.
+Выполняется установка сборки 'c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+   logfile = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+Устанавливается служба MyServiceForReadFiles...
+Служба MyServiceForReadFiles успешно установлена.
+Создается исходный EventLog MyServiceForReadFiles в журнале Application...
+Выполняется фиксация сборки 'c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+   logfile = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+Выполняется удаление сборки 'c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+   logfile = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+Выполняется удаление источника EventLog MyServiceForReadFiles.
+Выполняется удаление службы MyServiceForReadFiles из системы...
+Служба MyServiceForReadFiles успешно удалена из системы.
+Выполняется установка сборки 'c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+   logfile = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+Устанавливается служба MyServiceForReadFiles...
+Служба MyServiceForReadFiles успешно установлена.
+Создается исходный EventLog MyServiceForReadFiles в журнале Application...
+Выполняется фиксация сборки 'c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+   logfile = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+Выполняется удаление сборки 'c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+   logfile = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+Выполняется удаление источника EventLog MyServiceForReadFiles.
+Выполняется удаление службы MyServiceForReadFiles из системы...
+Служба MyServiceForReadFiles успешно удалена из системы.
+Выполняется установка сборки 'c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+   logfile = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog
+Устанавливается служба MyServiceForReadFiles...
+Служба MyServiceForReadFiles успешно установлена.
+Создается исходный EventLog MyServiceForReadFiles в журнале Application...
+Выполняется фиксация сборки 'c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+   logfile = c:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.InstallLog

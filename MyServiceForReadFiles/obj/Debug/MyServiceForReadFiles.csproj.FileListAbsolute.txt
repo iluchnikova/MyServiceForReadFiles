@@ -1,0 +1,8 @@
+C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe.config
+C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.exe
+C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\MyServiceForReadFiles.pdb
+C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\obj\Debug\MyServiceForReadFiles.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\obj\Debug\MyServiceForReadFiles.exe
+C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\obj\Debug\MyServiceForReadFiles.pdb
+C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\NewsDataBase.mdf
+C:\Users\Samsung\source\repos\MyServiceForReadFiles\MyServiceForReadFiles\bin\Debug\NewsDataBase_log.ldf
